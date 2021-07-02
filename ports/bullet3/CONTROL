@@ -5,3 +5,6 @@ Description: Bullet Physics is a professional collision detection, rigid body, a
 
 Feature: multithreading
 Description: Multithreading functionality for bullet3
+
+Feature: double-precision
+Description: Double Precision functionality for bullet3

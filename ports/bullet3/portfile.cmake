@@ -14,6 +14,7 @@ vcpkg_from_github(
 vcpkg_check_features(OUT_FEATURE_OPTIONS FEATURE_OPTIONS
     FEATURES
         multithreading       BULLET2_MULTITHREADING
+        double-precision     BT_USE_DOUBLE_PRECISION
 )
 
 vcpkg_configure_cmake(
